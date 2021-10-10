@@ -4,4 +4,4 @@
 Es una plataforma de streaming enfocada en el entretenimiento
 
 ## Requerimientos
-![NETFLIX_CS](https://user-images.githubusercontent.com/87546584/136716830-b6975cc7-7b9f-47f3-a51d-84aa8dd51812.PNG)
+![requerimientos](https://user-images.githubusercontent.com/87546584/136716924-772910ce-c593-4345-a701-8020fdcb2ce6.PNG)
