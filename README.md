@@ -1,4 +1,4 @@
-#NETFLIX
+# NETFLIX
 
 ## Descripción del software
 Es una plataforma de stre
