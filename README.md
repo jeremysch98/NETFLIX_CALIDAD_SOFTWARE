@@ -1,1 +1,6 @@
-# NETFLIX_CALIDAD_SOFTWARE
+## Descripción del software
+Es una plataforma de stre
+
+## Casos de uso
+...
+
