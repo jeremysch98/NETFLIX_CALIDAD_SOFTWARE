@@ -5,4 +5,5 @@ Es una plataforma de streaming por suscripción enfocada en el entretenimiento.
 
 ## Funciones
 Para el presente trabajo se toman en cuenta las siguientes funcionalidades.
-![requerimientos](https://user-images.githubusercontent.com/87546584/136716924-772910ce-c593-4345-a701-8020fdcb2ce6.PNG)
+![image](https://user-images.githubusercontent.com/82128621/137234687-b8718b0b-8909-45b4-b62f-ac7e4ca34f6d.png)
+
